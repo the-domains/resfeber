@@ -1,0 +1,28 @@
+name: RESFEBER
+favicon: null
+layout_spectrum: 0.46641443436965346
+typography_spectrum: 0.5548816844820976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2806208189576864
+  lightness: 0.7253622231073678
+  saturation: 0.5277117267251015
+  rhythmicContrast: 0.046361418440937996
+purpose: []
