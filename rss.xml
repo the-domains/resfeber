@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RESFEBER]]></title>
         <description><![CDATA[RESFEBER]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/resfeber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:00:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 18:01:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/resfeber/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df3caca7-4597-4417-a6e7-a6fcf7d9afd7.jpg">]]></description>
+            <link>https://thegrid.ai/resfeber/0118b4ba-f1d5-413c-9b3e-404a115f9b85/index.html</link>
+            <guid isPermaLink="false">0118b4ba-f1d5-413c-9b3e-404a115f9b85</guid>
+            <pubDate>Mon, 21 Mar 2016 18:01:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice ]]></title>
-            <description><![CDATA[<article><h1>Venice </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ea26aab-1664-4a2b-aa0f-8af890cf99e6.jpg"></article>]]></description>
-            <link>undefinedvenice/index.html</link>
+            <description><![CDATA[<article><h1>Venice </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85e91ab74912406d057d84d53bedd68802d45572.jpg"></article>]]></description>
+            <link>https://thegrid.ai/resfeber/venice/index.html</link>
             <guid isPermaLink="false">b5f7acc2-a0e8-44c4-805c-88d08520a31b</guid>
             <pubDate>Mon, 21 Mar 2016 17:59:04 GMT</pubDate>
         </item>
